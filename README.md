@@ -23,11 +23,11 @@ Number of Attributes/Columns in data: 10<br>
     Text - text of the review
     
 ## OBJECTIVE : 
-  1. Apply KNN 
-  2. Apply Naive Bayes
-  3. Apply Logisstic Regression
-  4. Apply SGD for linear regression
-  5. Apply SVM
-  6. Apply Decision Trees
-  7. Apply GBDT and RF
-  8. Apply DBSCAN
+      1. Apply KNN 
+      2. Apply Naive Bayes
+      3. Apply Logisstic Regression
+      4. Apply SGD for linear regression
+      5. Apply SVM
+      6. Apply Decision Trees
+      7. Apply GBDT and RF
+      8. Apply DBSCAN
