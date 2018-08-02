@@ -23,11 +23,12 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
     
 ## OBJECTIVE : 
 
-      1. Apply KNN 
-      2. Apply Naive Bayes
-      3. Apply Logisstic Regression
-      4. Apply SGD for linear regression
-      5. Apply SVM
-      6. Apply Decision Trees
-      7. Apply GBDT and RF
-      8. Apply DBSCAN
+      1. t-SNE Visualization
+      2. Apply KNN 
+      3. Apply Naive Bayes
+      4. Apply Logisstic Regression
+      5. Apply SGD for linear regression
+      6. Apply SVM
+      7. Apply Decision Trees
+      8. Apply GBDT and RF
+      9. Apply DBSCAN
